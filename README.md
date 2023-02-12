@@ -39,7 +39,7 @@ To run the containers, use the following commands:
 docker container run -d --name db --net app-net -e MYSQL_ROOT_PASSWORD=<some-pass> db-app
 
 # Run the web container with external files
-docker container run -d --name web --net app-net -p 80:80 -v $(pwd)/web:/var/www/html web-app
+docker container run -d --name web --net app-net -p 80:80 web-app
 
 ```
 
