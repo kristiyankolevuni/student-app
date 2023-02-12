@@ -13,7 +13,6 @@ A simple PHP web application with a SQL database. The application contains the f
 |   └── index.php              # Main app files 
 ├── Dockerfile.db              # Used to build the database image
 ├── Dockerfile.web             # Used to build the web image
-└── docker-compose.yaml        # Compose file for standalone Docker
 
 ```
 
