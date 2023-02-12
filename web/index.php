@@ -23,6 +23,7 @@
     <div align="center">
       <h1>Docker Students Score</h1>
       <img src="Moby-logo.png" alt="Moby Logo">
+      <h1> YOUR stu[Faculty number]@uni-plovdiv.bg
       <table>
         <tr>
           <th>NAME</th>
